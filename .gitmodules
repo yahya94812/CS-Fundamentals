@@ -1,3 +1,12 @@
 [submodule "Operating-System"]
 	path = Operating-System
 	url = https://github.com/yahya94812/Operating-System.git
+[submodule "Computer-Networks"]
+	path = Computer-Networks
+	url = https://github.com/yahya94812/Computer-Networks.git
+[submodule "Databases"]
+	path = Databases
+	url = https://github.com/yahya94812/Databases.git
+[submodule "Object-Oriented-Programming"]
+	path = Object-Oriented-Programming
+	url = https://github.com/yahya94812/Object-Oriented-Programming.git
