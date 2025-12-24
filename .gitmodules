@@ -10,3 +10,6 @@
 [submodule "Object-Oriented-Programming"]
 	path = Object-Oriented-Programming
 	url = https://github.com/yahya94812/Object-Oriented-Programming.git
+[submodule "Programming-Languages"]
+	path = Programming-Languages
+	url = https://github.com/yahya94812/Programming-Languages.git
